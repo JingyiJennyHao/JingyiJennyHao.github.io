@@ -11,28 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**North Carolina State University (NCSU)** – Raleigh, NC  
+_Ph.D. in Statistics, Expected 05/2028_
+
+**Johns Hopkins University (JHU)** – Baltimore, MD  
+_M.S.E. in Data Science, 05/2024_  
+
+**Shanghai Jiao Tong University (SJTU)** – Shanghai, China  
+_B.S. in Mathematics and Applied Mathematics, 06/2022_  
+_B.A. in German Literature, 06/2022_  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Analytic Software Tester Intern** – SAS | 05/2025–08/2025 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Graduate Industrial Fellow** – United Therapeutics | 01/2025–present 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+**Research Assistant** – Bloomberg School of Public Health, JHU | 03/2024–07/2024  
+- Designed and fine-tuned neural network models using PyTorch to assess coefficient learning from curves.  
+- Developed and tested models on complex simulated data and MNIST.  
+- Evaluated model accuracy and visualized results for interpretation.
+
+
+Teaching
 ======
 * Skill 1
 * Skill 2
@@ -62,3 +63,40 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+
+
+---
+
+
+## Academic Research & Projects
+
+**Dirichlet Multinomial Mixture Model for Hospital Diagnostics** | 02/2024–12/2024  
+- Developed a model using Dirichlet distribution to predict diagnostic error rates.  
+- Simulated data in R and applied model to real-world hospital datasets.
+
+**Efficiency of Double Machine Learning in Causal Inference** | 05/2023–06/2023  
+- Compared DML to naive ML using the `npcausal` package in R.  
+- Evaluated under various linear and non-linear scenarios.
+
+**Solving Riddles with Deep Learning Models** | 02/2023–05/2023  
+- Built a DUMA-BERT model for Chinese/English riddles using the BiRdQA dataset.  
+- Achieved 28.5% test and 32.5% training accuracy after fine-tuning.
+
+---
+
+## Publications
+
+- Hao, J., Zhu, Y. _Mixed Effect Dirichlet Model for SPADE RD Measure in the Presence of Cross-over._ (In preparation)  
+- Hao, J., Caffo, B. _Deep Learning for Coefficients Estimation in Regression._ (In preparation)  
+- Hao, J., Wan, S. _Brain Connections Key to Reading: Recent Findings from MIT._ *Contemporary Foreign Languages Studies*, 2018, 18(02): 106.
+
+---
+
+## Awards & Skills
+
+**Award:**  
+- Honorable Mention – ASA MDD Student Paper Competition, 2025
+
+**Programming:** Python, R, SQL, SAS, C++, Microsoft Office  
+**Languages:** English, German (C1), Chinese (native)
