@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "IMG_3660.HEIC"
+  name             : "Jingyi Hao"
+  #pronouns         : # example: "she/her"  
+  bio              : "Ph.D @ NCSU 28' | MS @ JHU 23'"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  #employer         : "Red Brick University"
+  uri              : "https://JingyiJennyHao.github.io"
+  email            : "jhao3@ncsu.edu" 
 
   # Academic websites
   academia         : # URL
