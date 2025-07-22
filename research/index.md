@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Welcome to my research page! Below are some of my current research projects.
+My research focuses on deep learning model, survival analysis and statistical models for EHRs (electronical medical records). Below are some of my current research projects.
 
 ---
 
