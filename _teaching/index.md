@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Welcome to my teaching page. Below are courses I have assisted with in recent semesters.
+Below are courses I have assisted with in recent semesters.
 
 ---
 
