@@ -7,7 +7,7 @@ author_profile: true
 
 ### Summer Internship at SAS
 
-I worked as an **Analytics Software Test Intern** in R&D at **SAS**, where I worked on deep learning models for object detection.
+I worked as an Analytics Software Test Intern in R&D at SAS, focusing on training deep learning models for real-time object detection.
 
 ---
 
