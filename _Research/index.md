@@ -19,7 +19,7 @@ Improving healthcare quality relies heavily on accurately evaluating and reducin
 
 This project develops neural network models trained on simulated data to estimate curve coefficients for regression tasks. By using synthetic 2D curves, the model learns to capture curve structures beyond basic features. We apply the method to the MNIST dataset to extract centerline representations, showcasing how deep learning can approximate principal curves without retraining on real-world datasets.
 
-
+![Deep Learning Curve Poster](/_Research/DLcurves.png)
 
 ---
 
