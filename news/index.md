@@ -12,8 +12,15 @@ I worked as an **Analytics Software Test Intern** in R&D at **SAS**, focusing on
 
 ---
 
-### Honorable Mention – JSM 2025  
+### Spring 2025 GSA Travel Award
 **Updated: April 2025**
+
+I received the NCSU Graduate Student Association Travel Award to support my participation in conferences.
+
+---
+
+### Honorable Mention – JSM 2025  
+**Updated: March 2025**
 
 I received an **Honorable Mention** for my paper *"A Dirichlet-Multinomial Mixture Model for Evaluating Hospital Diagnostic Performance Accounting for Cross-Over Events"*  
 in the **Medical Devices and Diagnostics** section. I will present this work at **JSM 2025** in **Nashville, TN**.
