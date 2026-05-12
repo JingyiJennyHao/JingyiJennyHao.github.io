@@ -3,12 +3,27 @@ layout: archive
 title: "News"
 permalink: /news/
 author_profile: true
+
+---
+
+### Summer Internship at SAS
+**Update: May 2026**
+
+I will go back to the algorithm team at SAS as a summer intern.
+
+---
+
+### Diagnostic Excellence Summit
+**Updated: April 2026**
+
+I presented our work "An HCUP-Augmented Electronic-Health-Record-Based Framework for Evaluating and Reducing Misdiagnosis-Related Harm Across Hospitals" at Diagnostic Excellence Submmit.
+
 ---
 
 ### Summer Internship at SAS  
 **Updated: May 2025**
 
-I worked as an **Analytics Software Test Intern** in R&D at **SAS**, focusing on training deep learning models for real-time object detection.
+I worked as an **Analytics Software Test Intern** in R&D at **SAS**, focusing on deep learning models for real-time object detection.
 
 ---
 
