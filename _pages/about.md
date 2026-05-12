@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jingyi Hao, and I am currently a Ph.D. student in Statistics at North Carolina State University. Previously, I earned a master’s degree in Data Science from Johns Hopkins University in 2023, and dual bachelor's degrees in Mathematics & Applied Mathematics and German Literature from Shanghai Jiao Tong University in 2022.
+My name is Jingyi Hao, and I am currently a Ph.D. student in Statistics at North Carolina State University, advised by Brian Reich and Ana-Maria Staicu. My research focuses on developing statistical and machine learning methods for complex biomedical and electronic health record (EHR) data, with applications in environmental health, cardiovascular disease, and neurological disorders. My methodological interests include mediation analysis, functional data analysis, and deep learning.
 
-My research interests include survival analysis, deep learning, and the development of statistical methods for electronic medical records, particularly in the context of neurological diseases.
+Previously, I earned a master’s degree in Data Science from Johns Hopkins University in 2023, where I was advised by Brian Caffo and Yuxin Zhu. I also received dual bachelor’s degrees in Mathematics & Applied Mathematics and German Literature from Shanghai Jiao Tong University in 2022.
 
-In my free time, I enjoy running, playing chess, cooking, and traveling. 
+In my free time, I enjoy running, playing chess, surfing, and traveling.
